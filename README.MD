@@ -17,7 +17,7 @@ long URLs to tiny strings similar to tinylink or bit.ly but this project is a bi
 * JUnit5
 
 ## How to compile and run application
-    git clone https://github.com/AbdulGaniShaikh/url-shortener-spring-boot.git
+    git clone https://github.com/sarthak/url-shortener-spring-boot.git
     mvn package 
     mvn spring-boot:run
 
